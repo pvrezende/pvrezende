@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Paulo Rezende 😁
 
+
 <br/>
 
 ### 🛠 Tecnologias e Ferramentas
@@ -11,7 +12,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   
   <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Expo Go" height="30" width="40" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
+  <img align="center" alt="Expo" height="30" width="40" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
 
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
