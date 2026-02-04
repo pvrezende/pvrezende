@@ -1,13 +1,11 @@
 ## Bem-vindo(a) ao perfil do Paulo Rezende 😁
 
-<div>
-  <a href="https://github.com/pvrezende">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvrezende&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvrezende&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-  </a>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pvrezende&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pvrezende&layout=compact&langs_count=6&theme=tokyonight)
 
-<br>
+<br/>
+
+### 🛠 Tecnologias e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +26,7 @@
   <img align="center" alt="OpenCV/Vision" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 </div>
 
-<br>
+<br/>
 
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
 
