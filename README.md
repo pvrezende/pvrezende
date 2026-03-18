@@ -2,6 +2,14 @@
 
 Sou um **Desenvolvedor Full-Stack Jr.** focado em criar soluções modernas para Web, Mobile e Visão Computacional. Atualmente, busco especialização constante em arquiteturas escaláveis e novas tecnologias no **INDT**.
 
+### 📫 Vamos nos conectar!
+
+<div> 
+  <a href="mailto:pvrezende2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulorezende2023/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-lovat-nu-45.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</div>
+
 - ⚡ Atualmente atuando como Desenvolvedor Full-Stack.
 - 🎓 Especializando-se em **Angular** no INDT.
 - 🚀 Experiência com AWS, Docker e deploys automatizados.
@@ -56,10 +64,4 @@ Cloud & Ops  [=================           ] 65% (AWS, Docker, Git)
 Databases    [================            ] 65% (PostgreSQL, MySQL),
 
 <br/>
-### 📫 Vamos nos conectar!
 
-<div> 
-  <a href="mailto:pvrezende2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paulorezende2023/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio-lovat-nu-45.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</div>
