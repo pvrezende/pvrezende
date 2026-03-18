@@ -1,29 +1,11 @@
 ## Bem-vindo(a) ao meu perfil! Eu sou o Paulo Rezende 👋
 
-Sou um **Desenvolvedor Full-Stack Jr.** focado em criar soluções mobile, web e de visão computacional. Atualmente, busco especialização constante, incluindo novos aprendizados no **INDT**.
+Sou um **Desenvolvedor Full-Stack Jr.** focado em criar soluções modernas para Web, Mobile e Visão Computacional. Atualmente, busco especialização constante em arquiteturas escaláveis e novas tecnologias no **INDT**.
 
-- ⚡ Atualmente trabalhando como Desenvolvedor Full-Stack.
+- ⚡ Atualmente atuando como Desenvolvedor Full-Stack.
 - 🎓 Especializando-se em **Angular** no INDT.
-- 🚀 Experiência com AWS, Docker e arquiteturas escaláveis.
-- 🧪 Prática em testes e documentação de APIs com Postman.
-
----
-
-### 🚀 Projetos em Destaque
-
-#### 📱 App Gastos
-Aplicação mobile focada em gestão financeira pessoal.
-* **Tecnologias:** React Native, Expo Go.
-
-#### 👁️ TuboVision (Visão Computacional)
-Sistema inteligente de análise e processamento de imagens.
-* **Tecnologias:** Python (YOLO, Roboflow, MediaPipe) e Binarização.
-
-#### 📊 Dashboards Administrativos
-Painéis de controle para visualização de dados e métricas em tempo real.
-* **Tecnologias:** React / Angular e integração com APIs.
-
----
+- 🚀 Experiência com AWS, Docker e deploys automatizados.
+- 🐍 Especialista em integração de IA e Visão Computacional com **Python**.
 
 ### 🛠 Tecnologias e Ferramentas
 
@@ -59,15 +41,24 @@ Painéis de controle para visualização de dados e métricas em tempo real.
   <img align="center" alt="Roboflow" height="30" width="40" src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-logo-300x300.png" />
 </div>
 
+
 ---
 
-### 📊 Minhas Skills em Dados (Auto-Avaliação)
+### 📊 Minhas Skills em Dados (Foco: Full Stack)
 
-Aqui está uma representação mais fiel do meu foco e expertise atual:
+Esta é a minha stack principal, equilibrada entre a entrega de interfaces ricas e backends robustos:
 
 ```text
-Python  [========================      ] 80% (Visão Computacional, YOLO, IA)
-JS/TS   [======================        ] 75% (React, Angular, Node.js)
-Mobile  [====================          ] 70% (React Native, Expo)
-AWS     [==================            ] 60% (Cloud, EC2, RDS, Deploy)
-C#/.NET [===============              ] 50% (Web API, Backend)
+Web Frontend [======================      ] 70% (React, Angular, JS/TS)
+Backend / IA [==========                  ] 40% (Python, Node.js, C#/.NET)
+Mobile Dev   [==============              ] 50% (React Native, Expo)
+Cloud & Ops  [=================           ] 65% (AWS, Docker, Git)
+Databases    [================            ] 65% (PostgreSQL, MySQL)
+
+### 📫 Vamos nos conectar!
+
+<div> 
+  <a href="mailto:pvrezende2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulorezende2023/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-lovat-nu-45.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</div>
