@@ -17,7 +17,7 @@ Aplicação mobile focada em gestão financeira pessoal.
 
 #### 👁️ TuboVision (Visão Computacional)
 Sistema inteligente de análise e processamento de imagens.
-* **Tecnologias:** YOLO, Roboflow, MediaPipe e Binarização.
+* **Tecnologias:** Python (YOLO, Roboflow, MediaPipe) e Binarização.
 
 #### 📊 Dashboards Administrativos
 Painéis de controle para visualização de dados e métricas em tempo real.
@@ -56,27 +56,18 @@ Painéis de controle para visualização de dados e métricas em tempo real.
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Roboflow" height="30" width="40" src="https://simpleicons.org/icons/roboflow.svg" />
+  <img align="center" alt="Roboflow" height="30" width="40" src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-logo-300x300.png" />
 </div>
 
 ---
 
 ### 📊 Minhas Skills em Dados (Auto-Avaliação)
 
-Aqui está uma representação mais fiel do meu foco e expertise atual, focando no que eu realmente entrego valor:
+Aqui está uma representação mais fiel do meu foco e expertise atual:
 
 ```text
-Python [========================      ] 80% (Foco: Visão Computacional, YOLO, Backend)
-JS/TS  [======================        ] 75% (Foco: React/Angular, Node.js)
-Mobile [====================          ] 70% (Foco: React Native/Expo)
-AWS    [==================            ] 60% (Foco: Deploy, EC2, RDS)
-C#/.NET [===============              ] 50% (Foco: Web API, Backend)
----
-
-### 📫 Vamos nos conectar!
-
-<div> 
-  <a href="mailto:pvrezende2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paulorezende2023/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio-lovat-nu-45.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</div>
+Python  [========================      ] 80% (Visão Computacional, YOLO, IA)
+JS/TS   [======================        ] 75% (React, Angular, Node.js)
+Mobile  [====================          ] 70% (React Native, Expo)
+AWS     [==================            ] 60% (Cloud, EC2, RDS, Deploy)
+C#/.NET [===============              ] 50% (Web API, Backend)
