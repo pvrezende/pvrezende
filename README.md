@@ -56,9 +56,21 @@ Painéis de controle para visualização de dados e métricas em tempo real.
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Roboflow" height="30" width="40" src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-logo-300x300.png" />
+  <img align="center" alt="Roboflow" height="30" width="40" src="https://simpleicons.org/icons/roboflow.svg" />
 </div>
 
+---
+
+### 📊 Minhas Skills em Dados (Auto-Avaliação)
+
+Aqui está uma representação mais fiel do meu foco e expertise atual, focando no que eu realmente entrego valor:
+
+```text
+Python [========================      ] 80% (Foco: Visão Computacional, YOLO, Backend)
+JS/TS  [======================        ] 75% (Foco: React/Angular, Node.js)
+Mobile [====================          ] 70% (Foco: React Native/Expo)
+AWS    [==================            ] 60% (Foco: Deploy, EC2, RDS)
+C#/.NET [===============              ] 50% (Foco: Web API, Backend)
 ---
 
 ### 📫 Vamos nos conectar!
