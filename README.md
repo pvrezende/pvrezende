@@ -38,7 +38,7 @@ Sou um **Desenvolvedor Full-Stack Jr.** focado em criar soluções modernas para
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Roboflow" height="30" width="40" src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-logo-300x300.png" />
+  <img align="center" alt="Roboflow" height="30" width="40" src="https://simpleicons.org/icons/roboflow.svg" />
 </div>
 
 
@@ -53,8 +53,9 @@ Web Frontend [======================      ] 70% (React, Angular, JS/TS)
 Backend / IA [==========                  ] 40% (Python, Node.js, C#/.NET)
 Mobile Dev   [==============              ] 50% (React Native, Expo)
 Cloud & Ops  [=================           ] 65% (AWS, Docker, Git)
-Databases    [================            ] 65% (PostgreSQL, MySQL)
+Databases    [================            ] 65% (PostgreSQL, MySQL),
 
+<br/>
 ### 📫 Vamos nos conectar!
 
 <div> 
