@@ -63,5 +63,3 @@ Mobile Dev   [==============              ] 50% (React Native, Expo)
 Cloud & Ops  [=================           ] 65% (AWS, Docker, Git)
 Databases    [================            ] 65% (PostgreSQL, MySQL),
 
-<br/>
-
