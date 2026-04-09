@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! Eu sou o Paulo Rezende 👋
 
-Sou um **Desenvolvedor Full-Stack Jr.** focado em criar soluções modernas para Web, Mobile e Visão Computacional. Atualmente, busco especialização constante em arquiteturas escaláveis e novas tecnologias no **INDT**.
+Sou um **Desenvolvedor Full-Stack.** focado em criar soluções modernas para Web, Mobile e Visão Computacional. Atualmente, busco especialização constante em arquiteturas escaláveis e novas tecnologias no **INDT**.
 
 ### 📫 Vamos nos conectar!
 
