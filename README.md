@@ -60,7 +60,7 @@ Atuo no desenvolvimento de aplicações completas, desde APIs e modelagem de dad
 Minha atuação é equilibrada entre front-end, back-end e infraestrutura, com foco em entrega de soluções completas:
 
 ```text
-Frontend (React)           [======================      ] 70%
+Frontend (React/Angular)   [======================      ] 70%
 Backend (Node.js/APIs)     [====================        ] 65%
 Mobile (React Native)      [==============              ] 50%
 Cloud & Deploy (AWS)       [=================           ] 65%
